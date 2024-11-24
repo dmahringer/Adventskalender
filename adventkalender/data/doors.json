@@ -1,0 +1,242 @@
+{
+  "door1": {
+    "title": "Last Christmas",
+    "artist": "Wham!",
+    "media": "media/LastChristmas.mp3",
+    "hints": {
+      "1": "Wham!",
+      "2": "3. Dezember 1984",
+      "3": "4:27"
+    }
+  },
+  "door2": {
+    "title": "All I Want For Christmas Is You",
+    "artist": "Mariah Carey",
+    "media": "media/AllIWantForChristmasIsYou.mp3",
+    "hints": {
+      "1": "Mariah Carey",
+      "2": "1. November 1994",
+      "3": "4:01"
+    }
+  },
+  "door3": {
+    "title": "Boulevard of Broken Dreams",
+    "artist": "Green Day",
+    "media": "media/BoulevardofBrokenDreams.mp3",
+    "hints": {
+      "1": "Green Day",
+      "2": "29. November 2004",
+      "3": "4:20"
+    }
+  },
+  "door4": {
+    "title": "Jingle Bell Rock",
+    "artist": "Bobby Helms",
+    "media": "media/JingleBellRock.mp3",
+    "hints": {
+      "1": "Bobby Helms",
+      "2": "1957",
+      "3": "2:10"
+    }
+  },
+    "door5": {
+        "title": "Nothing Else Matters",
+        "artist": "Metallica",
+        "media": "media/NothingElseMatters.mp3",
+        "hints": {
+        "1": "Metallica",
+        "2": "20. April 1992",
+        "3": "6:28"
+        }
+    },
+    "door6": {
+        "title": "Fear of the Dark",
+        "artist": "Iron Maiden",
+        "media": "media/FearoftheDark.mp3",
+        "hints": {
+        "1": "Iron Maiden",
+        "2": "11. Mai 1992",
+        "3": "7:18"
+        }
+    },
+    "door7": {
+        "title": "Bohemian Rhapsody",
+        "artist": "Queen",
+        "media": "media/BohemianRhapsody.mp3",
+        "hints": {
+        "1": "Queen",
+        "2": "31. Oktober 1975",
+        "3": "5:55"
+        }
+    },
+    "door8": {
+        "title": "Don't Stop Believin",
+        "artist": "Journey",
+        "media": "media/Don'tStopBelievin.mp3",
+        "hints": {
+        "1": "Journey",
+        "2": "6. Juni 1981",
+        "3": "4:11"
+        }
+    },
+    "door9": {
+        "title": "Pieces",
+        "artist": "Sum 41",
+        "media": "media/Pieces.mp3",
+        "hints": {
+        "1": "Sum 41",
+        "2": "2005",
+        "3": "3:02"
+        }
+    },
+    "door10": {
+        "title": "All the Small Things",
+        "artist": "Blink-182",
+        "media": "media/AllTheSmallThings.mp3",
+        "hints": {
+        "1": "Blink-182",
+        "2": "18. Januar 2000",
+        "3": "2:48"
+        }
+    },
+    "door11": {
+        "title": "Basket Case",
+        "artist": "Green Day",
+        "media": "media/BasketCase.mp3",
+        "hints": {
+        "1": "Green Day",
+        "2": "1994",
+        "3": "3:03"
+        }
+    },
+    "door12": {
+        "title": "Fat Lip",
+        "artist": "Sum 41",
+        "media": "media/FatLip.mp3",
+        "hints": {
+        "1": "Sum 41",
+        "2": "2001",
+        "3": "2:58"
+        }
+    },
+    "door13": {
+        "title": "In the End",
+        "artist": "Linkin Park",
+        "media": "media/InTheEnd.mp3",
+        "hints": {
+        "1": "Linkin Park",
+        "2": "24. Oktober 2000",
+        "3": "3:36"
+        }
+    },
+    "door14": {
+        "title": "Numb",
+        "artist": "Linkin Park",
+        "media": "media/Numb.mp3",
+        "hints": {
+        "1": "Linkin Park",
+        "2": "8. September 2003",
+        "3": "3:07"
+        }
+    },
+    "door15": {
+        "title": "What's My Age Again",
+        "artist": "Blink-182",
+        "media": "media/WhatsMyAgeAgain.mp3",
+        "hints": {
+        "1": "Blink-182",
+        "2": "17. Mai 1999",
+        "3": "2:28"
+        }
+    },
+    "door16": {
+        "title": "Landmines",
+        "artist": "Sum 41",
+        "media": "media/landmines.mp3",
+        "hints": {
+        "1": "Sum 41",
+        "2": "27. September 2023",
+        "3": "2:55"
+        }
+    },
+    "door17": {
+        "title": "I'm just a kid",
+        "artist": "Simple Plan",
+        "media": "media/I'mJustAKid.mp3",
+        "hints": {
+        "1": "Simple Plan",
+        "2": "2002",
+        "3": "3:18"
+        }
+    },
+    "door18": {
+        "title": "In Too Deep",
+        "artist": "Sum 41",
+        "media": "media/InTooDeep.mp3",
+        "hints": {
+        "1": "Sum 41",
+        "2": "2001",
+        "3": "3:27"
+        }
+    },
+    "door19": {
+        "title": "Welcome to the Black Parade",
+        "artist": "My Chemical Romance",
+        "media": "media/WelcomeToTheBlackParade.mp3",
+        "hints": {
+        "1": "My Chemical Romance",
+        "2": "12. September 2006",
+        "4": "5:11"
+        }
+    },
+    "door20": {
+        "title": "The Hell Song",
+        "artist": "Sum 41",
+        "media": "media/TheHellSong.mp3",
+        "hints": {
+        "1": "Sum 41",
+        "2": "2002",
+        "4": "3:19"
+        }
+    },
+    "door21": {
+        "title": "The emptiness Machine",
+        "artist": "Linkin Park",
+        "media": "media/TheEmptinessMachine.mp3",
+        "hints": {
+        "1": "Linkin Park",
+        "2": "6. September 2024",
+        "4": "3:20"
+        }
+    },
+    "door22": {
+        "title": "Buried Alive",
+        "artist": "Avenged Sevenfold",
+        "media": "media/BuriedAlive.mp3",
+        "hints": {
+        "1": "Avenged Sevenfold",
+        "2": "2010",
+        "4": "6:44"
+        }
+    },
+    "door23": {
+        "title": "Good Things Go",
+        "artist": "Linkin Park",
+        "media": "media/GoodThingsGo.mp3",
+        "hints": {
+        "1": "Linkin Park",
+        "2": "15. November 2024",
+        "4": "3:30"
+        }
+    },
+    "door24": {
+        "title": "Feliz Navidad",
+        "artist": "José Feliciano",
+        "media": "media/FelizNavidad.mp3",
+        "hints": {
+        "1": "José Feliciano",
+        "2": "1970",
+        "4": "3:02"
+        }
+    }
+}
